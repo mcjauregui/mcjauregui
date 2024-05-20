@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcjauregui
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning SQL, R, Python.
+- 🌱 I’m currently learning SQL, JavaScript, and Python.
 - 💞️ I’m looking to collaborate on learning opportunities.
 - 📫 How to reach me: christine.jauregui@gmail.com
 
