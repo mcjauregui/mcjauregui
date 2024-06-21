@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcjauregui
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning SQL, JavaScript, and Python.
+- 👀 My interest is data science.
+- 🌱 The programming languages I use the most are Python, SQL, and JavaScript.
 - 💞️ I’m looking to collaborate on learning opportunities.
 - 📫 How to reach me: christine.jauregui@gmail.com
 
